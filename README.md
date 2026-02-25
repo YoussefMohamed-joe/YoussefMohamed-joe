@@ -8,8 +8,7 @@ Results-driven Pipeline Technical Director and Computer Graphics TD with over fo
 
 ## Current Role
 
-**Pipeline Technical Director** at **Vogue Studios**  
-*August 2025 – Present*
+**Pipeline Technical Director** at **Rank Studios**  
 
 Leading the design and implementation of studio pipelines from concept to production, focusing on reliability, artist UX, and maintainability. Building internal pipeline management tools, React dashboards, and production automation systems.
 
