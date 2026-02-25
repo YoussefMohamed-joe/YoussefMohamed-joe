@@ -6,11 +6,13 @@ Results-driven Pipeline Technical Director and Computer Graphics TD with over fo
 
 ---
 
-## Current Role
+## Current Roles
 
-**Pipeline Technical Director** at **Rank Studios**  
+- **Pipeline Technical Director – Rank Studios** *(Jan 2026 – Present)*  
+  Maintaining and developing the entire studio production pipeline using the AYON pipeline management system, integrating multiple DCCs (Maya, Nuke, Houdini, DaVinci Resolve), managing render farm workflows, and building custom tools and automation scripts to streamline artist workflows across Windows and Mac.
 
-Leading the design and implementation of studio pipelines from concept to production, focusing on reliability, artist UX, and maintainability. Building internal pipeline management tools, React dashboards, and production automation systems.
+- **Pipeline Technical Director – Vogue Studios** *(Aug 2025 – Jan 2026)*  
+  Leading the design and implementation of the studio pipeline from concept to production, focusing on reliability, artist UX, and maintainability. Building internal Prism-style pipeline management and launcher tools, React + TypeScript dashboards for analytics and project overviews, and automation systems for publishing, tracking, and render management.
 
 ---
 
@@ -37,12 +39,17 @@ Leading the design and implementation of studio pipelines from concept to produc
 
 ## Key Projects
 
-- **Internal Prism-style Pipeline Manager** – Full production management system with Python + PyQt6 and JSON-based backend
-- **Studio Pipeline Launcher** – Centralized Qt/PySide6 application for production management
-- **React Pipeline Dashboard** – React 18 + TypeScript SPA for production analytics and workflow management
-- **FleuraEngine** – Vulkan-based real-time 3D engine with Qt editor UI
-- **Deadline Renderer & Status Checker** – Maya Deadline integration and render farm monitoring tools
-- **Houdini Asset Gallery** – Multi-user asset management system with conflict handling
+- **Internal Prism-style Pipeline Manager (Desktop Tool)** – Full production management system inspired by Prism Pipeline, built from scratch with Python + PyQt6 and a JSON-based backend. Includes a project browser, version manager, pipeline panel, project/asset/shot management, version publishing, thumbnails, filesystem scanning, and dedicated dockable Maya tools.
+- **Studio Pipeline Launcher (Qt/PySide Desktop Tool)** – PySide6 desktop launcher that centralizes Kitsu production management, CG/Comp/Assets/Review workflow tools, render farm management, time tracking, client portal, and analytics, using Qt Designer UIs, SVG icon sets, and theming for a cohesive look.
+- **React Pipeline Dashboard** – React 18 + TypeScript + Vite + Tailwind SPA for production dashboards and pipeline modules: authentication, analytics, Kitsu integration views, CG & Comp modules, asset and client management, time tracking, review tools, and render management in one app.
+- **Deadline Renderer – Maya Deadline Render Launcher** – PyQt6 tool to configure Maya Deadline jobs (frame ranges, cameras, pools/groups, priorities, overrides), with config saving/loading, validation, and safe process management.
+- **Deadline Status Checker – Real-Time Farm Monitor** – PyQt6 desktop tool that runs Deadline scripts, exports completed jobs to JSON, and displays them in a sortable/filterable table with search and custom notification banners.
+- **Houdini Asset Gallery – Multi-User Tool** – Houdini-based asset gallery with JSON/DB storage, smart deletion flags, conflict handling, and safe Windows-optimized writes; supports multi-user workflows, backup/restore, and background cleanup.
+- **Maya Animation & Rigging Tools** – Animation Layer Copy Tool, Parent Constraint Offset Updater, and Smooth Skin Weight enhancements that improve undo/redo behavior, selection flows, and robustness for production rigs.
+- **FleuraEngine – Vulkan/Qt 3D Engine** – Vulkan-based real-time 3D engine with a Qt editor UI, supporting PBR, multi-light setups, real-time shadows, keyframe animation, timeline, project browser, image sequence rendering, undo/redo, and 4K rendering; built with modern C++17, CMake, and a custom ASCII save/load system.
+- **E-commerce Platforms** – Two full-featured e-commerce websites and a bookstore mobile application (Bookia) with complete shopping flows.
+- **ComfyUI 3D Workflow** – Published workflow for generating 3D images from text and image prompts using Stable Diffusion in ComfyUI.
+- **Charity Mobile App (Ehsan)** – Full-featured mobile application built for a charitable organization, from UI/UX through to core functionality.
 
 ---
 
@@ -97,47 +104,3 @@ Leading the design and implementation of studio pipelines from concept to produc
 - **B.Sc. in Computer Science** – Cairo University, Faculty of Computer Science and Artificial Intelligence  
   *September 2019 – June 2023*  
   Grade: Good (2.97)
-
----
-
-## Extra CV Details
-
-The sections below pull extra detail from your full CV, so you have a richer version here while keeping your original GitHub layout above.
-
-### Additional Roles
-
-- **Pipeline Technical Director – Rank Studios** *(Jan 2026 – Present)*  
-  Maintaining and developing the studio production pipeline using AYON, integrating multiple DCCs (Maya, Nuke, Houdini, DaVinci Resolve), managing render farms, and building custom tools and automation scripts to streamline artist workflows across Windows and Mac.
-
-- **ICT/Coding Teacher – Amgad and Future International Schools** *(Jul 2023 – Jun 2024)*  
-  Teaching ICT and coding, focusing on problem-solving skills and strong fundamentals.
-
-- **Freelancer – Self-employed** *(Feb 2022 – Present)*  
-  Creating courses, editing multimedia content, and contributing to UI/UX and development projects.
-
-### AYON Pipeline Development & Contributions (2024 – Present)
-
-- Core bug fixes and contributions in AYON shot hierarchy and frame range handling across DaVinci Resolve, Nuke, and Maya.  
-- Custom studio addon with server-side event handlers and REST automation for project configuration and access permissions.  
-- Multi-DCC integration and troubleshooting for consistent metadata and frame ranges.  
-- Deployment of AYON in a multi-user studio with render farm integration and cross-platform update workflows.
-
-### Certifications
-
-- Learn the Vulkan API with C++ – Udemy  
-- Python For Maya: Artist Friendly Programming – Udemy  
-- Flutter & Dart - The Complete Guide \[2025 Edition] – Udemy  
-- Unreal Engine 5 - Realistic Environment Design for Beginners – Udemy  
-- The Complete Full-Stack Web Development Bootcamp – Udemy  
-- Unreal Engine 5 - Learn to Make a Professional Main Menu – Udemy
-
-### Internships
-
-- **Flutter Mobile Internship – Kimit** *(Jan 2024 – Aug 2024)* – Worked on large-scale projects, improving practices and collaboration.  
-- **Software Engineering Intern – Max Security** *(Jul 2022 – Oct 2022)* – Led a student team on metro project software and built a C++/Arduino color and laser detection system for ticketing and currency authentication.
-
-### Languages & Other
-
-- **Languages:** Arabic (Native), English (Fluent), French (Basic)  
-- **Military Status:** Exempted  
-- **Hobbies:** Cooking, Swimming, Lifting weights, Video Gaming, Reading
